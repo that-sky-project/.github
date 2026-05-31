@@ -9,6 +9,12 @@ We are building an independent open-source mod development system 🤯, allowing
 > [!IMPORTANT]
 > Please read our [Legal Notice](./LEGAL_NOTICE.md) before using any Project resources, source code, development assets, or related materials.
 
+We are a team of individual enthusiasts brought together around *Sky: Children of the Light*. Developers operate independently from one another, and we uphold the philosophy of knowledge sharing.
+
+We do not join any third-party organizations and do not accept any cooperation proposals (whether commercial or non-commercial) from entities other than the game's official developers. We firmly reject any commercial elements in such projects.
+
+Any code, executable files, or resources not obtained through our official GitHub are untrustworthy.
+
 > [!NOTE]
 > MODs should not be used in any multiplayer game. Do not use MODs to affect the normal gameplay of other players, or to obtain information, resources, or content beyond normal gameplay.
 >
