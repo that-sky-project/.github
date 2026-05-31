@@ -13,7 +13,7 @@ We are a team of individual enthusiasts brought together around *Sky: Children o
 
 We do not join any third-party organizations and do not accept any cooperation proposals (whether commercial or non-commercial) from entities other than the game's official developers. We firmly reject any commercial elements in such projects.
 
-Any code, executable files, or resources not obtained through our official GitHub are untrustworthy.
+Any code, executable files, or resources not obtained through our GitHub are untrustworthy.
 
 > [!NOTE]
 > MODs should not be used in any multiplayer game. Do not use MODs to affect the normal gameplay of other players, or to obtain information, resources, or content beyond normal gameplay.
