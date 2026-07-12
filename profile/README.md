@@ -2,9 +2,12 @@
 
 <!--![ThatSkyProject_Banner]()-->
 
+> Future flames may come, but spring'll always rise.<br>
+> 野火烧不尽，春风吹又生。
+
 A group of players who love 💗 *Sky: Children of the Light*.
 
-We are building an independent open-source mod development system 🤯, allowing more people who share our ideas to participate 🙌.
+We are building an independent and open-source mod development system 🤯, allowing more people who share our ideas to participate 🙌.
 
 > [!IMPORTANT]
 > Please read our [Legal Notice](./LEGAL_NOTICE.md) before using any Project resources, source code, development assets, or related materials.
