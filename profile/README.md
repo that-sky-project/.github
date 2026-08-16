@@ -12,6 +12,20 @@ We are building an independent and open-source mod development system 🤯, allo
 > [!IMPORTANT]
 > Please read our [Legal Notice](./LEGAL_NOTICE.md) before using any Project resources, source code, development assets, or related materials.
 
+> We talk only about tech; we do only real work.<br>
+> We respect every individual; we seek common ground while embracing differences.<br>
+> We welcome technical exchanges, but we refuse to freeload.<br>
+> We live by knowledge sharing; we keep it strictly non-commercial.<br>
+> Together, a blazing fire; apart, stars across the sky. The community will remember your contributions.<br>
+> We are here to open the door wide, the world behind it is yours to write.<br>
+> 
+> 我们只谈技术，我们只干实事。<br>
+> 我们尊重个体，我们求同存异。<br>
+> 我们欢迎技术交流，我们拒绝伸手白嫖。<br>
+> 我们贯彻知识共享理念，我们坚决拒绝商业因素。<br>
+> 聚是一团火，散是满天星；社区会记住你做出的贡献。<br>
+> 我们负责敞开大门，而门后的世界由你们书写。
+
 We are a team of individual enthusiasts brought together around *Sky: Children of the Light*. Developers operate independently from one another, and we uphold the philosophy of knowledge sharing.
 
 We do not join any third-party organizations and do not accept any cooperation proposals (whether commercial or non-commercial) from entities other than the game's official developers. We firmly reject any commercial elements in such projects.
